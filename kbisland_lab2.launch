@@ -1,0 +1,6 @@
+<launch>
+
+<node name="kbisland_lab2" pkg="kbisland_lab2" type="lab2.py" output="screen">
+  </node>
+
+</launch>
